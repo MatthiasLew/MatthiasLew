@@ -130,7 +130,17 @@ Najbardziej interesują mnie projekty, w których mogę pracować nad logiką ap
 ## Doświadczenie
 
 ### Broxeen — wolontariat / wsparcie projektu
-Pracowałem przy testowaniu i usprawnianiu wybranych modułów aplikacji, między innymi funkcji związanych z lokalnymi narzędziami AI, obsługą mowy, diagnostyką i funkcjonalnościami użytkownika.
+
+Pracowałem przy projekcie Broxeen — aplikacji open-source związanej z lokalnymi narzędziami AI oraz funkcjonalnościami użytkownika.
+
+Zakres prac:
+
+* testowanie wybranych modułów aplikacji,
+* analiza działania funkcji związanych z AI, STT/TTS oraz diagnostyką,
+* zgłaszanie błędów i opisywanie problemów technicznych,
+* sprawdzanie funkcjonalności widocznych dla użytkownika,
+* współpraca przy realnym projekcie programistycznym,
+* samodzielne rozwiązywanie problemów technicznych.
 
 ---
 
@@ -262,9 +272,18 @@ I am especially interested in projects where I can work on application logic, al
 
 ---
 
-### Broxeen — Volunteer Software Contributor
-Worked on testing and improving selected application modules, including local AI-related features, speech tools, diagnostics and user-facing functionality.
+## Experience
 
+### Broxeen — Volunteer Software Contributor
+
+Worked on testing and improving selected modules of an open-source application related to local AI tools and user-facing functionality.
+
+Main areas:
+- testing selected application modules,
+- working with AI-related features, STT/TTS and diagnostics,
+- reporting technical issues,
+- analyzing user-facing functionality,
+- collaborating in a real software project environment.
 ---
 
 ## 📫 Contact
