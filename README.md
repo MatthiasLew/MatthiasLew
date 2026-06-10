@@ -127,6 +127,13 @@ Najbardziej interesują mnie projekty, w których mogę pracować nad logiką ap
 
 ---
 
+## Doświadczenie
+
+### Broxeen — wolontariat / wsparcie projektu
+Pracowałem przy testowaniu i usprawnianiu wybranych modułów aplikacji, między innymi funkcji związanych z lokalnymi narzędziami AI, obsługą mowy, diagnostyką i funkcjonalnościami użytkownika.
+
+---
+
 ## 📫 Kontakt
 
 - GitHub: https://github.com/MatthiasLew
@@ -252,6 +259,11 @@ I am looking for a role or internship as:
 - Junior Backend Developer.
 
 I am especially interested in projects where I can work on application logic, algorithms, automation or practical software tools.
+
+---
+
+### Broxeen — Volunteer Software Contributor
+Worked on testing and improving selected application modules, including local AI-related features, speech tools, diagnostics and user-facing functionality.
 
 ---
 
