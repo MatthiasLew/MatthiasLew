@@ -258,5 +258,5 @@ I am especially interested in projects where I can work on application logic, al
 ## 📫 Contact
 
 - GitHub: https://github.com/MatthiasLew
-- LinkedIn: PASTE_YOUR_LINKEDIN_HERE
-- E-mail: PASTE_YOUR_EMAIL_HERE
+- LinkedIn: https://www.linkedin.com/in/mateusz-lewandowski-4508872a9/
+- E-mail: matlew2003@gmail.com
